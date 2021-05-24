@@ -1,5 +1,7 @@
 # Description
-This Docker container provides a dev-environment for ionic hybrid apps. There´s a sample project (tabs, Vue) in the apps directory.
+This Docker image provides a dev-environment for ionic hybrid apps. 
+
+It should be used as a startpoint for yout ionic projects. Don´t push projects in this repository!
 
 ### build image
 Run script "build_image.sh"
