@@ -1,7 +1,5 @@
 # Description
-This Docker image provides a dev-environment for ionic hybrid apps. 
-
-It should be used as a startpoint for yout ionic projects. Don´t push projects in this repository!
+This repository can be used as a template/startpoint to set up your Docker image with a dev-environment for ionic hybrid apps. 
 
 ### build image
 Run script "build_image.sh"
